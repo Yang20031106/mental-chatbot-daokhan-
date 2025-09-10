@@ -1,0 +1,334 @@
+hi there	greeting	happy
+can you tell me ways to manage stress	faq	neutral
+thanks for talking	farewell	neutral
+i feel so tense lately	other	anxious
+good morning	greeting	happy
+what are common signs of burnout	faq	neutral
+bye for now	farewell	happy
+i'm really frustrated with everything	other	angry
+hello	greeting	neutral
+I feel numb inside	other	neutral
+Sometimes I just stare at the ceiling with no thoughts	other	neutral
+I don't really care about anything right now	other	neutral
+Everything feels empty lately	other	suicidal
+I can't see any reason to keep going	other	suicidal
+No matter what I do, nothing changes	other	suicidal
+I'm just existing, not really living	other	neutral
+Life feels pointless at times	other	suicidal
+I don't want to bother anyone with how I feel	other	neutral
+Is it normal to feel like nothing matters?	other	neutral
+I don't know what to do anymore	other	suicidal
+I feel disconnected from everyone around me	other	neutral
+Does anyone even care if I'm here?	other	suicidal
+I just feel tired all the time	other	neutral
+Lately I feel like giving up	other	suicidal
+Do people ever get better from this?	other	neutral
+Sometimes I wish I could disappear	other	suicidal
+I'm not sure why I even try	other	suicidal
+I feel like I'm fading into the background	other	neutral
+how do i improve my sleep habits	faq	anxious
+see you later	farewell	neutral
+i feel down today	other	depressed
+hey	greeting	happy
+what's mindfulness about	faq	neutral
+goodbye	farewell	happy
+i'm upset things aren’t going my way	other	angry
+hi	greeting	neutral
+how can i stay positive under pressure	faq	anxious
+talk to you soon	farewell	neutral
+i can't focus on anything	other	depressed
+hey there	greeting	happy
+what’s the best way to relax after work	faq	neutral
+catch you later	farewell	neutral
+i feel nervous about tomorrow	other	anxious
+hello there	greeting	neutral
+how can i deal with constant worry	faq	anxious
+thanks, bye	farewell	happy
+i'm mad that nobody understands me	other	angry
+hi again	greeting	happy
+what can help me stay motivated	faq	neutral
+bye bye	farewell	neutral
+I feel like I can't handle things anymore	other	suicidal
+Sometimes I wonder if life will ever get better	faq	suicidal
+I feel hopeless every day	other	suicidal
+Why do I feel like giving up	faq	suicidal
+I just don't see a way out	other	suicidal
+What should I do when I feel like ending it all	faq	suicidal
+I keep thinking about not being here anymore	other	suicidal
+Who can I talk to when I have thoughts like this	faq	suicidal
+Everything feels pointless	other	suicidal
+How do I stop thinking about hurting myself	faq	suicidal
+I feel trapped with no escape	other	suicidal
+Where can I get help if I feel like giving up	faq	suicidal
+I don't have the energy to live anymore	other	suicidal
+Is there a hotline I can call when I feel this way	faq	suicidal
+Life feels unbearable	other	suicidal
+Who should I reach out to when I feel like this	faq	suicidal
+I feel like disappearing	other	suicidal
+Are there people who understand feelings like this	faq	suicidal
+I feel like I can't go on	other	suicidal
+How can I stop these harmful thoughts	faq	suicidal
+I just want the pain to stop	other	suicidal
+Is there support available for people who feel like giving up	faq	suicidal
+I don't want to wake up anymore	other	suicidal
+What resources are there for someone who feels this way	faq	suicidal
+I feel like I’m at the end of my rope	other	suicidal
+How do I tell someone I have thoughts like this	faq	suicidal
+I feel like nothing matters	other	suicidal
+What steps can I take when I feel like giving up	faq	suicidal
+I keep thinking about ending things	other	suicidal
+Who can help me if I feel hopeless	faq	suicidal
+lately i've been feeling off	other	depressed
+yo	greeting	happy
+what are quick stress relief tips	faq	neutral
+later	farewell	neutral
+i'm scared about the future	other	anxious
+good evening	greeting	neutral
+how can i build healthy habits	faq	happy
+ciao	farewell	happy
+everything annoys me today	other	angry
+morning	greeting	neutral
+what do i do if i overthink a lot	faq	anxious
+ok bye	farewell	neutral
+i'm tired all the time	other	depressed
+hello again	greeting	happy
+how to stay calm in a crisis	faq	anxious
+see ya	farewell	happy
+i'm irritated at everyone	other	angry
+sup	greeting	neutral
+what are techniques for self-care	faq	neutral
+bye for now	farewell	happy
+i feel hopeless today	other	depressed
+hey hey	greeting	happy
+how to manage work stress	faq	neutral
+farewell	farewell	neutral
+i'm uneasy about everything	other	anxious
+hi there again	greeting	happy
+what's a simple breathing exercise	faq	neutral
+bye friend	farewell	happy
+i'm upset about school	other	angry
+hiya	greeting	happy
+how can i organize my thoughts	faq	neutral
+talk soon	farewell	neutral
+i feel unmotivated	other	depressed
+yo again	greeting	neutral
+how to stop feeling restless	faq	anxious
+later on	farewell	happy
+i'm angry at myself	other	angry
+good afternoon	greeting	happy
+what can help me relax fast	faq	neutral
+peace out	farewell	happy
+i can't shake this sadness	other	depressed
+hey buddy	greeting	neutral
+how do i control my nerves	faq	anxious
+goodnight	farewell	neutral
+everything is irritating me	other	angry
+hey friend	greeting	happy
+what helps when feeling tense	faq	anxious
+bye for today	farewell	neutral
+i'm feeling really low	other	depressed
+hi there pal	greeting	neutral
+what's grounding technique	faq	neutral
+goodbye now	farewell	happy
+i feel restless	other	anxious
+hey you	greeting	happy
+how can i stay optimistic	faq	happy
+see you soon	farewell	neutral
+i'm mad at my situation	other	angry
+hello hello	greeting	neutral
+how do i take mental breaks	faq	neutral
+bye everyone	farewell	happy
+i feel empty	other	depressed
+good day	greeting	happy
+how can i calm my thoughts	faq	anxious
+later friend	farewell	neutral
+i'm furious about my grades	other	angry
+hey again	greeting	neutral
+what can boost my mood	faq	happy
+bye bye now	farewell	neutral
+i feel gloomy today	other	depressed
+hiya again	greeting	happy
+what helps reduce worry	faq	anxious
+bye see ya	farewell	neutral
+i'm irritated at small things	other	angry
+hello friend	greeting	neutral
+how do i handle pressure	faq	anxious
+take care	farewell	happy
+i feel unworthy	other	depressed
+hi hi	greeting	happy
+what’s journaling for mental health	faq	neutral
+goodbye pal	farewell	happy
+i'm feeling nervous	other	anxious
+hey pal	greeting	neutral
+how to feel more confident	faq	happy
+bye till later	farewell	neutral
+i'm angry with my friends	other	angry
+Good to see you here today	greeting	happy
+Can therapy help with overthinking?	faq	anxious
+I'm glad we're talking again	greeting	happy
+Does lack of sleep affect mood?	faq	depressed
+Thanks for your time today	farewell	happy
+Why do I feel angry all the time?	faq	angry
+I appreciate you checking in	greeting	depressed
+Goodbye, I hope things improve soon	farewell	depressed
+What are ways to manage panic attacks?	faq	anxious
+Is it normal to feel numb?	faq	depressed
+Catch you later, take care	farewell	happy
+Why do people snap at small things?	faq	angry
+Hi, I'm feeling unsettled	greeting	anxious
+Do antidepressants really work?	faq	depressed
+Thanks for listening, bye	farewell	anxious
+What should I do if I feel hopeless?	faq	suicidal
+Hey there, how's it going?	greeting	happy
+Can meditation reduce stress?	faq	anxious
+Goodbye for now	farewell	depressed
+Why can't I control my temper?	faq	angry
+Hi, it's been a rough morning	greeting	depressed
+What are signs of severe depression?	faq	suicidal
+See you next time	farewell	happy
+Why does my chest feel tight when nervous?	faq	anxious
+Hello again, I missed this	greeting	happy
+How do I stop negative thoughts?	faq	depressed
+Thanks for chatting, I’ll be okay	farewell	depressed
+What should I do if I feel unsafe?	faq	suicidal
+Hey, I need someone to talk to	greeting	anxious
+Can anger damage relationships?	faq	angry
+Bye, I appreciate the support	farewell	happy
+Why do I feel drained even when I rest?	faq	depressed
+Hello, I'm just checking in	greeting	happy
+Is journaling good for anxiety?	faq	anxious
+See you, stay strong	farewell	depressed
+What hotline can I call when in danger?	faq	suicidal
+Hi, I need to vent	greeting	angry
+Does therapy really help anger issues?	faq	angry
+Thanks, talk soon	farewell	happy
+What can I do to feel motivated again?	faq	depressed
+Good morning, I’m a bit nervous	greeting	anxious
+Are panic attacks dangerous?	faq	anxious
+Goodbye, this helped	farewell	happy
+How do I calm down quickly?	faq	anxious
+Hi, I woke up feeling low	greeting	depressed
+What are coping skills for sadness?	faq	depressed
+Later, take care of yourself	farewell	depressed
+Who can I reach out to if I feel unsafe?	faq	suicidal
+Hey, I'm in a good mood today	greeting	happy
+What causes frequent irritability?	faq	angry
+Goodbye and thank you	farewell	happy
+How can I improve my mood swings?	faq	depressed
+Hi there, long time no chat	greeting	happy
+What to do when overwhelmed?	faq	anxious
+Catch you later, I’ll be fine	farewell	anxious
+Why do I keep crying randomly?	faq	depressed
+Hello, I need some guidance	greeting	depressed
+Can breathing exercises help anxiety?	faq	anxious
+Bye, I feel better now	farewell	happy
+What if I don’t want to live anymore?	faq	suicidal
+Hi, feeling a bit off	greeting	depressed
+How do I deal with constant anger?	faq	angry
+Thanks for today, see you soon	farewell	happy
+How can I talk to someone about my feelings?	faq	anxious
+Good evening, I’m nervous again	greeting	anxious
+Why does everything annoy me lately?	faq	angry
+Goodbye for now, I’m hanging in	farewell	depressed
+Can lifestyle changes help depression?	faq	depressed
+Hey, I need advice	greeting	anxious
+What’s the best way to handle rage?	faq	angry
+Bye for now, I’ll be okay	farewell	depressed
+What should I do when I feel trapped?	faq	suicidal
+Hi, glad to see you again	greeting	happy
+Are mood swings a sign of depression?	faq	depressed
+Thanks again, catch you soon	farewell	happy
+What techniques stop anxiety fast?	faq	anxious
+Hello, just dropping by	greeting	happy
+Is it bad to feel nothing?	faq	depressed
+Later, I feel a bit calmer	farewell	depressed
+What if I can’t control harmful thoughts?	faq	suicidal
+Hey, I had a stressful day	greeting	anxious
+Does anger affect physical health?	faq	angry
+Thanks, that’s all for now	farewell	happy
+Why do I feel so empty?	faq	depressed
+Hi, how are you today?	greeting	happy
+Can anxiety cause headaches?	faq	anxious
+Bye, I appreciate your help	farewell	depressed
+What should I do when I feel unsafe at night?	faq	suicidal
+Hello, I’m feeling upset	greeting	angry
+What’s the best way to release frustration?	faq	angry
+Goodbye, I hope tomorrow is better	farewell	depressed
+Can therapy help me feel less sad?	faq	depressed
+Hi there, just wanted to say hello	greeting	happy
+What are signs of an anxiety disorder?	faq	anxious
+See you later, take care	farewell	happy
+Why do I lose interest in everything?	faq	depressed
+Good to connect again	greeting	happy
+What if I feel like I might hurt myself?	faq	suicidal
+Thanks, I’ll be fine now	farewell	anxious
+Why do I get angry so quickly?	faq	angry
+Hey, I just wanted to talk	greeting	depressed
+Does talking really help sadness?	faq	depressed
+Goodbye, you’ve been helpful	farewell	happy
+How can I stop overthinking at night?	faq	anxious
+I feel worthless and empty	other	suicidal
+Are there safe places to go when I feel like this	faq	suicidal
+I can’t see a reason to live anymore	other	suicidal
+How do I cope when I feel like ending my life	faq	suicidal
+I feel overwhelmed and broken	other	suicidal
+Is there someone I can call right now for help	faq	suicidal
+I feel like I’m drowning in my thoughts	other	suicidal
+How do I find hope when I feel hopeless	faq	suicidal
+I just don't care about anything anymore	other	suicidal
+Who can listen to me without judgment when I feel this way	faq	suicidal
+Hello, it’s been hard recently	greeting	depressed
+What to do if sadness never goes away?	faq	depressed
+Bye for now, thanks again	farewell	happy
+What should I do when I lose hope?	faq	suicidal
+Hi, thanks for checking on me	greeting	happy
+Does anger come from stress?	faq	angry
+See you later, I’ll try to rest	farewell	depressed
+What can I do to control panic?	faq	anxious
+Hey, I’m not feeling myself	greeting	depressed
+Can exercise help depression?	faq	depressed
+Goodbye, I feel lighter now	farewell	happy
+What’s the emergency number for crises?	faq	suicidal
+Hello, I’m tense today	greeting	anxious
+Why do I lash out so easily?	faq	angry
+Later, I think I’ll be okay	farewell	depressed
+How do I stay calm under stress?	faq	anxious
+Does this sadness ever go away?	other	neutral
+Hi there	greeting	neutral
+Hello, I need someone to talk to	greeting	neutral
+Good evening, I just feel off	greeting	neutral
+Hey, are you available to chat?	greeting	neutral
+Hello, I don't feel like myself today	greeting	neutral
+Hey, I'm feeling down today	greeting	neutral
+Hi, I'm just checking in	greeting	neutral
+Good morning, I feel really low	greeting	neutral
+Hello, I can't shake this feeling	greeting	neutral
+Hey there, I feel empty	greeting	neutral
+What can you do for me?	faq	neutral
+Can you help me feel better?	faq	neutral
+What kind of support can you provide?	faq	neutral
+How do I deal with stress?	faq	neutral
+What are some ways to calm down?	faq	neutral
+How do I know if I need help?	faq	neutral
+What should I do if I feel hopeless?	faq	neutral
+Is there someone I can talk to right now?	faq	suicidal
+Can you tell me about anxiety?	faq	neutral
+Where can I find professional help?	faq	neutral
+I can't handle this pressure anymore	other	suicidal
+Nothing feels real lately	other	neutral
+I wish I could stop feeling like this	other	suicidal
+Is it bad that I don't feel anything?	other	neutral
+I just don't see a way forward	other	suicidal
+Everything feels like too much	other	suicidal
+I think people would be better without me	other	suicidal
+I just want to sleep and never wake up	other	suicidal
+Do you think I can recover from this?	other	neutral
+I'm scared of my own thoughts	other	suicidal
+Why does life feel so heavy?	other	suicidal
+I can't talk to anyone about this	other	suicidal
+Does this emptiness ever stop?	other	neutral
+Is it wrong to feel like I don't belong?	other	neutral
+Sometimes I feel invisible	other	neutral
+I'm losing hope piece by piece	other	suicidal
+I just want the pain to end	other	suicidal
+Do feelings like this go away with time?	other	neutral
