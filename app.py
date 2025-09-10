@@ -102,7 +102,7 @@ def get_response(user_input):
 # ----------------------------
 # 5. Streamlit UI
 # ----------------------------
-st.title("🧠 Mental Health Chatbot")
+st.title("🧠 Mental Health Chatbot(Logistic Regression)")
 st.write("Talk to the bot about your mental health, stress, or questions.")
 
 user_input = st.text_input("You:", "")
@@ -115,6 +115,7 @@ if st.button("Send"):
         st.markdown(f"**Emotion:** {emotion} (score: {emotion_conf:.2f})")
     else:
         st.warning("Please type something to chat.")
+
 
 
 
