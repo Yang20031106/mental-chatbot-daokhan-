@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+rouge-score
+pyspellchecker
+joblib
+matplotlib
